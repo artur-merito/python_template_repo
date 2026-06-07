@@ -2,5 +2,5 @@
 
 
 def add(a: int, b: int) -> int:
-    """Add two numbers."""
+    """Add two numbers.""" #komentarz testowy
     return a + b
