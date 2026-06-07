@@ -1,7 +1,15 @@
 # Quick Start
 
-Chyba tutaj nie ma co dużo pisać.
+
+Projekt wykorzystuje GitHub Actions.
+Pipeline sprawdza:
+- formatowanie (black)
+- lint (pylint)
+- testy (pytest)
+
+Po poprawkach pipeline przechodzi poprawnie (status SUCCESS).
+
 Dzieje sie wiele rzeczy zapraszam do obserwacji projektu
-Python wersja: 3.14.5
+Użyta wersja Pythona: 3.14.5
 
 <a href="https://meritogo.pl" target="_blank">Portal merito link</a>
