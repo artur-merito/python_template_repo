@@ -2,5 +2,4 @@ from app.logic import add
 
 
 def test_add():
-    assert add(2, 3) == 5 #test znowu
-
+    assert add(2, 3) == 5  # test znowu
